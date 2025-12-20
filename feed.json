@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Home Cockpit Builder",
+    "description": "",
+    "home_page_url": "https://homecockpitbuilder.com",
+    "feed_url": "https://homecockpitbuilder.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ProDeskSim Team"
+    },
+    "items": [
+        {
+            "id": "https://homecockpitbuilder.com/the-ultimate-guide-to-building-a-cessna-home-cockpit-2025.html",
+            "url": "https://homecockpitbuilder.com/the-ultimate-guide-to-building-a-cessna-home-cockpit-2025.html",
+            "title": "The Ultimate Guide to Building a Cessna Home Cockpit (2025)",
+            "summary": "Introduction Building a home cockpit doesn't have to be expensive. In this guide, we break down exactly what you need to simulate a Cessna 172 at home, from the desk to the throttle. 1. The Foundation: The Desk You can't put a heavy yoke on&hellip;",
+            "content_html": "\n  <p>\n    Introduction Building a home cockpit doesn't have to be expensive. In this guide, we break down exactly what you need to simulate a Cessna 172 at home, from the desk to the throttle.<br><br>1. The Foundation: The Desk You can't put a heavy yoke on a glass table. You need a sturdy mounting system.<br><br>2. The Controls: Yoke vs. Stick For a Cessna, you need a Yoke. While sticks are great for fighter jets, a yoke gives you the true general aviation feel.<br><br>3. The Throttle: Why \"Vernier\" Matters Most gamers use standard levers, but real Cessnas use \"Push-Pull\" (Vernier) throttles. If you want realism, you need a proper TPM unit.<br><br>Conclusion Start small. Get the desk and the throttle right, and you are 90% there.\n  </p>",
+            "author": {
+                "name": "ProDeskSim Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-19T22:09:52-08:00",
+            "date_modified": "2025-12-19T22:09:52-08:00"
+        }
+    ]
+}

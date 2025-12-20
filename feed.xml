@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Home Cockpit Builder</title>
+    <link href="https://homecockpitbuilder.com/feed.xml" rel="self" />
+    <link href="https://homecockpitbuilder.com" />
+    <updated>2025-12-19T22:09:52-08:00</updated>
+    <author>
+        <name>ProDeskSim Team</name>
+    </author>
+    <id>https://homecockpitbuilder.com</id>
+
+    <entry>
+        <title>The Ultimate Guide to Building a Cessna Home Cockpit (2025)</title>
+        <author>
+            <name>ProDeskSim Team</name>
+        </author>
+        <link href="https://homecockpitbuilder.com/the-ultimate-guide-to-building-a-cessna-home-cockpit-2025.html"/>
+        <id>https://homecockpitbuilder.com/the-ultimate-guide-to-building-a-cessna-home-cockpit-2025.html</id>
+
+        <updated>2025-12-19T22:09:52-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Introduction Building a home cockpit doesn't have to be expensive. In this guide, we break down exactly what you need to simulate a Cessna 172 at home, from the desk to the throttle. 1. The Foundation: The Desk You can't put a heavy yoke on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Introduction Building a home cockpit doesn't have to be expensive. In this guide, we break down exactly what you need to simulate a Cessna 172 at home, from the desk to the throttle.<br><br>1. The Foundation: The Desk You can't put a heavy yoke on a glass table. You need a sturdy mounting system.<br><br>2. The Controls: Yoke vs. Stick For a Cessna, you need a Yoke. While sticks are great for fighter jets, a yoke gives you the true general aviation feel.<br><br>3. The Throttle: Why "Vernier" Matters Most gamers use standard levers, but real Cessnas use "Push-Pull" (Vernier) throttles. If you want realism, you need a proper TPM unit.<br><br>Conclusion Start small. Get the desk and the throttle right, and you are 90% there.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
